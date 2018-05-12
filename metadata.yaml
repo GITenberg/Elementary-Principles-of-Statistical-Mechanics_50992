@@ -1,10 +1,16 @@
 _repo: Elementary-Principles-of-Statistical-Mechanics_50992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gibbs, Josiah Willard
     gutenberg_agent_id: '46176'
     url: http://www.gutenberg.org/2009/agents/46176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50992#Elementary-Principles-of-Statistical-Mechanics
 gutenberg_bookshelf:
 - Physics
 - Mathematics
